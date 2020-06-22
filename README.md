@@ -1,3 +1,3 @@
-# Project-Euler-Problem-128
+# Project Euler Problem 128: Hexagonal Tile Differences
 
-![alt text](https://github.com/ExpectozJJ/Project-Euler-Problem-128/blob/master/euler_prob128.pdf?raw=true)
+![alt text](https://github.com/ExpectozJJ/Project-Euler-Problem-128/blob/master/euler_prob128_50.png?raw=true)
